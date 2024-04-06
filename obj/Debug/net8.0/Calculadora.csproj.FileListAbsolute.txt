@@ -1,0 +1,14 @@
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\bin\Debug\net8.0\Calculadora.exe
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\bin\Debug\net8.0\Calculadora.dll
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.dll
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+c:\Users\mathe\Programação\CalculadoraCs\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
